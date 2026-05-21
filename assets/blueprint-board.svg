@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" fill="none">
+<rect width="1600" height="1000" fill="white"/>
+<g opacity="0.2">
+<path d="M0 80H1600M0 160H1600M0 240H1600M0 320H1600M0 400H1600M0 480H1600M0 560H1600M0 640H1600M0 720H1600M0 800H1600M0 880H1600" stroke="#006EFF"/>
+<path d="M80 0V1000M160 0V1000M240 0V1000M320 0V1000M400 0V1000M480 0V1000M560 0V1000M640 0V1000M720 0V1000M800 0V1000M880 0V1000M960 0V1000M1040 0V1000M1120 0V1000M1200 0V1000M1280 0V1000M1360 0V1000M1440 0V1000M1520 0V1000" stroke="#006EFF"/>
+</g>
+<circle cx="1240" cy="220" r="160" stroke="#00B7FF" stroke-width="6" stroke-dasharray="18 18"/>
+<circle cx="1240" cy="220" r="90" stroke="#9B5CFF" stroke-width="4"/>
+<path d="M220 700H780L920 540H1320" stroke="#006EFF" stroke-width="10" stroke-linecap="round"/>
+<path d="M260 760H680" stroke="#00B7FF" stroke-width="6" stroke-dasharray="16 10"/>
+<rect x="160" y="600" width="240" height="120" stroke="#006EFF" stroke-width="6"/>
+<rect x="460" y="600" width="240" height="120" stroke="#006EFF" stroke-width="6"/>
+<rect x="760" y="600" width="240" height="120" stroke="#006EFF" stroke-width="6"/>
+<text x="170" y="120" fill="#006EFF" font-size="54" font-family="monospace">KARIMEF // ELECTRONICS BLUEPRINT</text>
+<text x="170" y="180" fill="#082243" font-size="28" font-family="monospace">PROFESSIONAL TECHNICAL PORTFOLIO SYSTEM</text>
+</svg>
