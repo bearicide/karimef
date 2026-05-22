@@ -1,42 +1,31 @@
 # KARIMEF
 
-Professional electronics repair and technical gadgetry portfolio.
+Electric blueprint studio page for electronics hobbyist work, technical art, repair notes, and gadget experiments.
 
-## Direction
+## Current direction
 
-- White electric blueprint aesthetic
-- Technical stencil typography
-- Interactive electronics blueprint system
-- Publication-ready structure
-- Colleague-reviewed professional tone
-- Component-level electronics and repair language
+- White background
+- Bright electric-blue blueprint grid
+- Technical stencil / condensed type feel
+- Feminine but engineering-focused energy
+- Lightweight GitHub Pages build
+- Footer connected to the MATTBEAR ecosystem
 
-## Included
+## Current optimization target
 
-- Interactive SVG blueprint board
-- Responsive technical layout
-- Engineering-grid styling
-- Professional footer
-- Electronics-inspired assets
-- Technical documentation structure
-
-## Technical Themes
-
-- Diagnostic architecture
-- Power rail analysis
-- Signal integrity
-- Thermal behavior
-- Repair validation
-- Publication-ready documentation
+- Keep the page single-file where practical
+- Avoid unnecessary external dependencies
+- Keep mobile layout clean
+- Preserve interactive blueprint behavior
+- Keep future asset slots ready
+- Use safe, non-destructive repo edits
 
 ## Repository
 
-Official project repository:
 https://github.com/bearicide/karimef
 
-## Connected Ecosystem
+## Live site
 
-Main portal:
-https://bearicide.github.io
+https://bearicide.github.io/karimef/
 
-Prepared with MATTBEAR creative systems direction.
+Prepared as part of the connected MATTBEAR GitHub ecosystem.
