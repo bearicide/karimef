@@ -1,0 +1,32 @@
+:root{
+--cream:#f8f1ed;
+--rose:#d9b3b0;
+--maroon:#7a1f36;
+--wine:#4f1322;
+--gold:#c89b7b;
+--ink:#2f1a22;
+--line:#d7beb9;
+}
+
+body{
+background:var(--cream);
+color:var(--ink);
+font-family:'Cormorant Garamond', serif;
+background-image:url('karimef-background.png');
+background-size:cover;
+background-attachment:fixed;
+}
+
+h1,h2,h3,.logo{
+font-family:'Great Vibes', cursive;
+color:var(--maroon);
+font-weight:400;
+}
+
+.panel{
+background:rgba(255,248,246,.82);
+border:1px solid var(--line);
+border-radius:18px;
+box-shadow:0 14px 40px rgba(122,31,54,.08);
+backdrop-filter:blur(8px);
+}
